@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Merriweather&family=Montserrat:ital,wght@0,400;1,500&family=Sacramento&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 0px;
+}
+
+main {
+    width: 100vw;
+    height: 86vh;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.container input {
+    border: none;
+    margin: auto;
+    width: 100%;
+    display: block;
+    font-family: inherit;
+    font-size: 0.9rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+#left-container {
+    color: white;
+    height: 100%;
+    padding-top: 10rem;
+    width: 44.95%;
+    float: left;
+    background-color: #561463;
+}
+
+
+#right-container {
+    color: white;
+    height: 100%;
+    float: right;
+    width: 55%;
+    background-color: #080744;
+}
+
+#show-me-btn {
+    background-color: #080744;
+    font-family: inherit;
+    border: none;
+    border: solid 0.1rem;
+    border-color:white ;
+    width: 100%;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    color:white;
+
+}
+
+#output-message {
+    font-family: inherit;
+    margin-top: 20rem;
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: aqua;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+}
+
+.icons i{
+    margin: 0 2rem;
+    color: black;
+}
+
+.icons i:hover{
+    color: #8400ff;
+}
+
+.bottom-container{
+    background-color: #7e00f35b;
+    height: 100px;
+    width: 100%;
+    margin-top: auto;
+    padding: 1rem 0;
+}
+
+.footer-link{
+    font-size: 1rem;
+    display: inline-block;
+}
+
+.copyright {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 0.5rem;
+}
