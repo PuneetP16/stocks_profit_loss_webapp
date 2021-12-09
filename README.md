@@ -1,6 +1,6 @@
 # stocks_profit_or_loss_webapp
 
-Do you trade in stocks or want to track? Want to check how it's performing? Well this app will help you immensely! Just enter your Purchase and CURRENT price, and quantity and see if you're in the Profit or Loss as of now!
+Do you trade in stocks or want to trade? Well this app will help you immensely! Just enter your Purchase and CURRENT price and quantity of stocks, and see if you're doing Profit or Loss!
 
 Live Demo: https://isstockprofitableornot.netlify.app
 
